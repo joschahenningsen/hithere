@@ -1,6 +1,6 @@
 # hithere
 
-hithere helps visualizing and debugging your clusters load balancing.
+hithere helps visualize and verify your clusters load balancing.
 
 ## Usage
 
